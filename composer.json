@@ -1,0 +1,23 @@
+{
+    "name": "shahvirag/laravel-rules",
+    "description": "Userful laravel validation rules.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "illuminate/support": "^6.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^4.0",
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shahvirag\\LaravelRules\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Shahvirag\\LaravelRules\\": "tests/"
+        }
+    }
+}
