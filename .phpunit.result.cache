@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":89:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:29:"VerifyHashTest::validate_hash";d:0.029;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":253:{a:2:{s:7:"defects";a:2:{s:26:"VerifyHashTest::valid_hash";i:4;s:28:"VerifyHashTest::invalid_hash";i:3;}s:5:"times";a:3:{s:29:"VerifyHashTest::validate_hash";d:0.029;s:26:"VerifyHashTest::valid_hash";d:0.344;s:28:"VerifyHashTest::invalid_hash";d:0.155;}}}
